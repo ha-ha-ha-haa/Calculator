@@ -1,5 +1,5 @@
-# Cute-Calculator
-A cute simple calculator
+# Calculator
+A simple calculator
 
 #### Images of web page
 
